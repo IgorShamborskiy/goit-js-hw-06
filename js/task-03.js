@@ -23,3 +23,21 @@ images.forEach(img => {
     .join('');
 });
 list.insertAdjacentHTML('afterbegin', markup);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
